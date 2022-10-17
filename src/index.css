@@ -15,7 +15,8 @@ code {
 /* Criado --------------------------------------- */
 .container{
   margin: 0 3%;
+  padding: 0 0;
 }
 :root{
-  
+  --montserrat: 'Montserrat', sans-serif;
 }

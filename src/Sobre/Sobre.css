@@ -1,20 +1,27 @@
 .sobre{
     background-color: #CC5256;
     color: #fff;
+    font-family: var(--montserrat);
+    margin: 0% 0%;
+    
 }
 .sobre h2{
     text-align: center;
     margin: 0% 0%;
+    padding: 3% 0;
+    font-size: 2rem;
 }
 .conteudo{
-    display: flex;
-    justify-content: space-between;
-    padding-bottom: 3%;
     font-size: 1rem;
     text-align: justify;
     line-height: 1.2;
+    padding-bottom: 3%;
+    
 }
 
 .sobre img{
     max-width: 100%;
+    background-color: #fff;
+    margin: 0% 0%;
+
 }

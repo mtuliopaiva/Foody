@@ -1,0 +1,29 @@
+.quem-somos{
+    color: #fff;
+    text-align: center;
+    background-color: #CC5256;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+.quem-somos h2{
+    margin: 0% 0%;
+    padding: 3% 0;
+    font-size: 2rem;
+}
+.quem-somos p{
+    margin: 0% 0%;
+    padding: 3% 0;
+    font-size: 1.5rem;
+}
+.quem-somos__cartao {
+    margin:  10% 0;
+}
+.quem-somos__cartao p{
+    font-size: 1.3rem;
+    line-height: 0;
+}
+.quem-somos__cartao img{
+    border-radius: 50%;
+    max-width: 100%;
+    box-shadow: 5px 5px 10px 0px #00000010;
+}

@@ -1,8 +1,16 @@
 .receitas{
     text-align: center;
+    padding: 3% 0;
+    font-family: var(--montserrat);
+    
+    background-color: #fff;
 }
 .receitas h2{
     color: #CC5256;
+    text-align: center;
+    margin: 0% 0%;
+    padding: 3% 0;
+    font-size: 2rem;
 }
 .receitas__cartao{
     background-color: #e5e5e5;
@@ -22,6 +30,7 @@
     margin: 0 8%;
     max-width: 100%;
     border-radius: 5%;
+    opacity: 1;
 }
 .receitas__cartao p{
     margin: 2% 5%;
