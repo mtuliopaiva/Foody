@@ -1,0 +1,29 @@
+.receitas{
+    text-align: center;
+}
+.receitas h2{
+    color: #CC5256;
+}
+.receitas__cartao{
+    background-color: #e5e5e5;
+    display: flex;
+    flex-direction: column;
+    margin: 5% 5%;
+    border-radius: 5%;
+        /* box-shadow: none|h-offset v-offset blur spread color |inset|initial|inherit; */
+        /* offset-x | offset-y | blur-radius | spread-radius | color */
+    box-shadow: 2px 2px 5px 0px #00000010;
+}
+.receitas__cartao h3{
+    font-size: 1.2rem;
+    color: #CC5256;
+}
+.receitas__cartao img{
+    margin: 0 8%;
+    max-width: 100%;
+    border-radius: 5%;
+}
+.receitas__cartao p{
+    margin: 2% 5%;
+    text-align: center;
+}
