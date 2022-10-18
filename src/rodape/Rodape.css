@@ -1,8 +1,16 @@
 .rodape{
-    background-color: #212529;
+    background-color: #333;
     color: #fff;
     text-align: center;
     margin: 0 0;
     padding: 0 0;
     padding-top: 3%;
+    padding-bottom: 3%;
+}
+.social-media img{
+    width: 8%;
+}
+.endereco a{
+    text-decoration: none;
+    color: inherit;
 }
